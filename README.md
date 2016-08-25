@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 teste <<<<<<< HEAD
 
 testels# web-rails-simple
@@ -20,3 +21,6 @@ FROM [codenvy/ubuntu_rails](https://hub.docker.com/r/codenvy/ubuntu_rails/)
 =======
 # Projeto
 >>>>>>> refs/remotes/github.com/master
+=======
+# Projeto
+>>>>>>> refs/heads/master
