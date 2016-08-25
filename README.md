@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+teste <<<<<<< HEAD
 
 testels# web-rails-simple
 
