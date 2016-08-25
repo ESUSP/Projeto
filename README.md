@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 testels# web-rails-simple
 
@@ -16,3 +17,6 @@ FROM [codenvy/ubuntu_rails](https://hub.docker.com/r/codenvy/ubuntu_rails/)
 | :------------- |:-------------| :-----|
 | 1      | Install dependencies | `cd ${current.project.path} && bundle install` |
 | 2      | Run | `cd ${current.project.path} && rails server -b 0.0.0.0` |
+=======
+# Projeto
+>>>>>>> refs/remotes/github.com/master
